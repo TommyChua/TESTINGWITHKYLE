@@ -17,8 +17,8 @@ public class RobotControl {
 	     // When you call the methods lower() or raise() d will be changed	
 
 
-		     int h = 2;			// Initial height of arm 1
-		     int w = 1;			// Initial width of arm 2  
+		     int h = 5;			// Initial height of arm 1
+		     int w = 6;			// Initial width of arm 2  
 		     int d = 0;			// Initial depth of arm 3
 
 		     
